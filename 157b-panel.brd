@@ -31734,6 +31734,7 @@ MARCH 2025</text>
 <rectangle x1="209.6262" y1="63.1444" x2="209.9818" y2="63.1698" layer="26" rot="R270"/>
 <rectangle x1="209.6516" y1="63.1444" x2="209.9056" y2="63.1698" layer="26" rot="R270"/>
 <rectangle x1="209.677" y1="63.1444" x2="209.8294" y2="63.1698" layer="26" rot="R270"/>
+<text x="46" y="92" size="3" layer="26" font="vector" rot="MR270">Christan Rusche | rusche.ch/a157b</text>
 </plain>
 <libraries>
 </libraries>
